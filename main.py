@@ -19,7 +19,7 @@ def guess_age():
 def count():
     print("Now I will prove to you that I can count to any number you want.")
     num = int(input())
-    i = 0;
+    i = 0
     while i <= num:
         print(f"{i} !")
         i += 1
